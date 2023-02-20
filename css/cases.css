@@ -201,3 +201,10 @@ header {
     padding-left: 0px !important;
     padding-right: 0px !important;
 }
+
+/* Blue line*/
+
+.blue-line {
+    height: 40px;
+    background-color: var(--color1);
+}
